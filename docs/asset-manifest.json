@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React-Youtube-Clone/static/css/main.dc051f1e.css",
-    "main.js": "/React-Youtube-Clone/static/js/main.25a91dc8.js",
-    "static/media/no-img.jpg": "/React-Youtube-Clone/static/media/no-img.c2695452822229faf21a.jpg",
-    "index.html": "/React-Youtube-Clone/index.html",
-    "main.dc051f1e.css.map": "/React-Youtube-Clone/static/css/main.dc051f1e.css.map",
-    "main.25a91dc8.js.map": "/React-Youtube-Clone/static/js/main.25a91dc8.js.map"
+    "main.css": "/React-Youtube-Clone/docs/static/css/main.dc051f1e.css",
+    "main.js": "/React-Youtube-Clone/docs/static/js/main.6b9c1e45.js",
+    "static/media/no-img.jpg": "/React-Youtube-Clone/docs/static/media/no-img.c2695452822229faf21a.jpg",
+    "index.html": "/React-Youtube-Clone/docs/index.html",
+    "main.dc051f1e.css.map": "/React-Youtube-Clone/docs/static/css/main.dc051f1e.css.map",
+    "main.6b9c1e45.js.map": "/React-Youtube-Clone/docs/static/js/main.6b9c1e45.js.map"
   },
   "entrypoints": [
     "static/css/main.dc051f1e.css",
-    "static/js/main.25a91dc8.js"
+    "static/js/main.6b9c1e45.js"
   ]
 }
